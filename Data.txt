@@ -1,0 +1,72 @@
+5
+Shah
+Authentic
+ABC123 Streets
+3
+Biryani
+160
+10
+MainCourse
+0
+Gobi 65
+120
+10
+Starter
+5
+Chicken Salad
+450
+2
+Starter
+3
+Ravi's
+Normal
+ABC123 Mall
+1
+Kabab
+120
+10
+MainCourse
+4
+The Chinese
+Authentic
+XYZ44 Malls
+1
+Noodles
+200
+10
+MainCourse
+5
+Wang's
+FastFood1
+GUCCI Streets
+1
+Shake
+100
+2
+Beverage
+10
+Paradise
+Normal
+Fendi Vuitton Streets
+1
+Roti
+10
+200
+Beverage
+0
+5
+Ram
+Elite
+ABC123 Streets
+Sam
+Elite
+ABC256 Streets
+Tim
+Special
+PQR123 Streets
+Kim
+Normal
+KMP4523 Streets
+Jim
+Normal
+ESD123 Streets
